@@ -1,0 +1,15 @@
+body{
+
+}
+#name-from{
+height: 100vh;
+}
+#chat-room{
+background-size:100%;
+background-repeat: no-repeat;
+}
+#login{
+width:120px;
+height:55px;
+}
+
